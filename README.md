@@ -2,7 +2,7 @@
 
 ![PHP Elephant](https://github.com/d3vkk/heroku-php-demo/blob/master/php-elephant.png)
 
-Heroku PHP Demo for Test Deployment
+PHP App for Heroku Test Deployment
 
 Fork or clone this repo
 ```
